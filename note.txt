@@ -1,0 +1,4 @@
+NAMA 		: PUTRI MAHARANI
+KELAS 		: D3IF-47-02
+NIM 		: 607062330087
+LINK REPO 	: https://github.com/Putrimahar/jurnal12isd_Putrimaharani.git
